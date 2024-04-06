@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class SwiggyService {
-  //  List<Restaurant> restaurantList;
+    List<Restaurant> restaurantList;
 
 
 
@@ -39,8 +39,7 @@ public class SwiggyService {
         restaurant1.restaurantRating=4.0;
 
 
-        List<Restaurant> restaurantList= new ArrayList<>();
-        restaurantList.add(restaurant1);
+
 
 
 
@@ -73,6 +72,10 @@ public class SwiggyService {
         List<Dish>dishList1 = new ArrayList<>();
         dishList1.add(dish2);
         dishList1.add(dish3);
+
+
+        List<Restaurant> restaurantList= new ArrayList<>();
+        restaurantList.add(restaurant1);
 
         restaurantList.add(restaurant2);
 
