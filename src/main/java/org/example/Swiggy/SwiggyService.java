@@ -11,8 +11,7 @@ public class SwiggyService {
     public List<Restaurant> getRestaurant(){
         Restaurant restaurant1= new Restaurant();
 
-        List<Restaurant> restaurantList= new ArrayList<>();
-        restaurantList.add(restaurant1);
+
 
         Address address=new Address();
         address.area="Dlf";
@@ -38,7 +37,10 @@ public class SwiggyService {
 
         restaurant1.restaurantName="Mefhil";
         restaurant1.restaurantRating=4.0;
-        restaurant1.address=address;
+
+
+        List<Restaurant> restaurantList= new ArrayList<>();
+        restaurantList.add(restaurant1);
 
 
 
@@ -46,7 +48,6 @@ public class SwiggyService {
 
 
         Restaurant restaurant2= new Restaurant();
-        restaurantList.add(restaurant2);
 
         Address address2=new Address();
         address2.area="Hitec city";
@@ -72,6 +73,8 @@ public class SwiggyService {
         List<Dish>dishList1 = new ArrayList<>();
         dishList1.add(dish2);
         dishList1.add(dish3);
+
+        restaurantList.add(restaurant2);
 
 
 
