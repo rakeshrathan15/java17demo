@@ -60,12 +60,18 @@ public class SwiggyService {
         restaurant2.address=address2;
 
         Dish dish2=new Dish();
-        dish2.type="Veg";
+        dish2.type="non veg";
         dish2.price=150;
         dish2.dishName="Mutton briyani";
 
+        Dish dish3=new Dish();
+        dish3.type="veg";
+        dish3.dishName="veg meals";
+        dish3.price=100;
+
         List<Dish>dishList1 = new ArrayList<>();
         dishList1.add(dish2);
+        dishList1.add(dish3);
 
 
 
