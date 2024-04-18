@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class SwiggyService {
-    List<Restaurant> restaurantList;
+   List<Restaurant> restaurantList;
 
 
 

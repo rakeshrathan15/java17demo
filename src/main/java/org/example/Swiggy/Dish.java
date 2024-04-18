@@ -10,9 +10,12 @@ public class Dish {
 
      public double price;
 
-
-
-
-
-
+     @Override
+     public String toString() {
+          return "Dish{" +
+                  "dishName='" + dishName + '\'' +
+                  ", type='" + type + '\'' +
+                  ", price=" + price +
+                  '}';
+     }
 }

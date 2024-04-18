@@ -4,8 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d360183-bafd-46dc-b803-a1caa031d219" name="Changes" comment="Small changes2">
+    <list default="true" id="4d360183-bafd-46dc-b803-a1caa031d219" name="Changes" comment="Small changes3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cardemo/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cardemo/CarModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cardemo/Enginee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cardemo/FuelTank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cardemo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cardemo/Wheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cardemo/service/CarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cardemo/service/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/CollectionDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/PredicateStatusDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/ThisDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/equalshashcode/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/equalshashcode/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/equalshashcode/EqualsHashCodeDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/equalshashcode/SetDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/BedRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Gas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Hall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Kitchen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Rooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pagination/DataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pagination/Pagination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pagination/PaginationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pagination/PaginationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/Dish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/RestaurantService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/RestaurantResponse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/SwiggyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/SwiggyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/SwiggyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/SwiggyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/UserService.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,31 +72,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AccountCreationTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CardTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ShopDemoTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AccountCreationTest.executor": "Run",
+    "Application.App.executor": "Run",
+    "Application.CardTest.executor": "Run",
+    "Application.CollectionDemoTest.executor": "Run",
+    "Application.Demo1.executor": "Run",
+    "Application.EqualsHashCodeDemoTest.executor": "Run",
+    "Application.PaginationTest.executor": "Run",
+    "Application.SetDemoTest.executor": "Run",
+    "Application.ShopDemoTest.executor": "Run",
+    "Application.SwiggyTest.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.org.example.cardemo.Test.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.ShopDemoTest">
-    <configuration name="AccountCreationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.bank.AccountCreationTest" />
+}]]></component>
+  <component name="RunManager" selected="Application.Demo1">
+    <configuration name="CollectionDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collectionsDemo.CollectionDemoTest" />
       <module name="java17demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.bank.*" />
+          <option name="PATTERN" value="org.example.collectionsDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collectionsDemo.Demo1" />
       <module name="java17demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.collectionsDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CardTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.creditcard.CardTest" />
+    <configuration name="EqualsHashCodeDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.equalshashcode.EqualsHashCodeDemoTest" />
       <module name="java17demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.creditcard.*" />
+          <option name="PATTERN" value="org.example.equalshashcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShopDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Ajio.ShopDemoTest" />
+    <configuration name="SetDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.equalshashcode.SetDemoTest" />
       <module name="java17demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Ajio.*" />
+          <option name="PATTERN" value="org.example.equalshashcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Amazon.Test" />
+    <configuration name="SwiggyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Swiggy.SwiggyTest" />
       <module name="java17demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Amazon.*" />
+          <option name="PATTERN" value="org.example.Swiggy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShopDemoTest" />
-        <item itemvalue="Application.CardTest" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.AccountCreationTest" />
-        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.CollectionDemoTest" />
+        <item itemvalue="Application.SwiggyTest" />
+        <item itemvalue="Application.SetDemoTest" />
+        <item itemvalue="Application.EqualsHashCodeDemoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -165,13 +214,33 @@
       <option name="project" value="LOCAL" />
       <updated>1712395062838</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Small changes3">
+      <option name="closed" value="true" />
+      <created>1712396461457</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712396461457</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Swiggy method" />
     <MESSAGE value="Small changes" />
     <MESSAGE value="Small changes2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Small changes2" />
+    <MESSAGE value="Small changes3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Small changes3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/equalshashcode/EqualsHashCodeDemoTest.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
