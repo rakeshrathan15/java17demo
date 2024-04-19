@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d360183-bafd-46dc-b803-a1caa031d219" name="Changes" comment="collections list set">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamdemo/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamdemo/TicketTest.java" afterDir="false" />
+    <list default="true" id="4d360183-bafd-46dc-b803-a1caa031d219" name="Changes" comment="Predicate">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamdemo/PredicateAsParameter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/CollectionDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/CollectionDemoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/PredicateStatusDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/PredicateStatusDemoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/ThisDemoTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +41,7 @@
     "Application.Demo1.executor": "Run",
     "Application.EqualsHashCodeDemoTest.executor": "Run",
     "Application.PaginationTest.executor": "Run",
+    "Application.PredicateAsParameter.executor": "Run",
     "Application.PredicateStatusDemoTest.executor": "Run",
     "Application.SetDemoTest.executor": "Run",
     "Application.ShopDemoTest.executor": "Run",
@@ -64,7 +61,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TicketTest">
+  <component name="RunManager" selected="Application.PredicateAsParameter">
     <configuration name="CollectionDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.collectionsDemo.CollectionDemoTest" />
       <module name="java17demo" />
@@ -91,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateStatusDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.collectionsDemo.PredicateStatusDemoTest" />
+    <configuration name="PredicateAsParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.streamdemo.PredicateAsParameter" />
       <module name="java17demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.collectionsDemo.*" />
+          <option name="PATTERN" value="org.example.streamdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwiggyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Swiggy.SwiggyTest" />
+    <configuration name="PredicateStatusDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collectionsDemo.PredicateStatusDemoTest" />
       <module name="java17demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Swiggy.*" />
+          <option name="PATTERN" value="org.example.collectionsDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PredicateAsParameter" />
         <item itemvalue="Application.TicketTest" />
         <item itemvalue="Application.CollectionDemoTest" />
         <item itemvalue="Application.PredicateStatusDemoTest" />
         <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.SwiggyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713434792980</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Predicate">
+      <option name="closed" value="true" />
+      <created>1713500237752</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713500237752</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -205,7 +210,8 @@
     <MESSAGE value="Small changes2" />
     <MESSAGE value="Small changes3" />
     <MESSAGE value="collections list set" />
-    <option name="LAST_COMMIT_MESSAGE" value="collections list set" />
+    <MESSAGE value="Predicate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Predicate" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -222,7 +228,7 @@
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
