@@ -4,49 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d360183-bafd-46dc-b803-a1caa031d219" name="Changes" comment="Small changes3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cardemo/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cardemo/CarModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cardemo/Enginee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cardemo/FuelTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cardemo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cardemo/Wheel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cardemo/service/CarService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/cardemo/service/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/CollectionDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/PredicateStatusDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/ThisDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/equalshashcode/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/equalshashcode/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/equalshashcode/EqualsHashCodeDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/equalshashcode/SetDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/BedRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Gas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Hall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Kitchen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Rooms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/homedemo/Tv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pagination/DataService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pagination/Pagination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pagination/PaginationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pagination/PaginationTest.java" afterDir="false" />
+    <list default="true" id="4d360183-bafd-46dc-b803-a1caa031d219" name="Changes" comment="collections list set">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamdemo/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamdemo/TicketTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/Dish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/Restaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/RestaurantService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/RestaurantResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/SwiggyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/SwiggyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/SwiggyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/SwiggyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swiggy/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/CollectionDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/CollectionDemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/PredicateStatusDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/PredicateStatusDemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/collectionsDemo/ThisDemoTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,11 +45,13 @@
     "Application.Demo1.executor": "Run",
     "Application.EqualsHashCodeDemoTest.executor": "Run",
     "Application.PaginationTest.executor": "Run",
+    "Application.PredicateStatusDemoTest.executor": "Run",
     "Application.SetDemoTest.executor": "Run",
     "Application.ShopDemoTest.executor": "Run",
     "Application.SwiggyTest.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.Test2.executor": "Run",
+    "Application.TicketTest.executor": "Run",
     "Application.org.example.cardemo.Test.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -98,7 +64,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Demo1">
+  <component name="RunManager" selected="Application.TicketTest">
     <configuration name="CollectionDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.collectionsDemo.CollectionDemoTest" />
       <module name="java17demo" />
@@ -125,25 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualsHashCodeDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.equalshashcode.EqualsHashCodeDemoTest" />
+    <configuration name="PredicateStatusDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collectionsDemo.PredicateStatusDemoTest" />
       <module name="java17demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.equalshashcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SetDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.equalshashcode.SetDemoTest" />
-      <module name="java17demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.equalshashcode.*" />
+          <option name="PATTERN" value="org.example.collectionsDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TicketTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.streamdemo.TicketTest" />
+      <module name="java17demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.streamdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.TicketTest" />
         <item itemvalue="Application.CollectionDemoTest" />
+        <item itemvalue="Application.PredicateStatusDemoTest" />
+        <item itemvalue="Application.Demo1" />
         <item itemvalue="Application.SwiggyTest" />
-        <item itemvalue="Application.SetDemoTest" />
-        <item itemvalue="Application.EqualsHashCodeDemoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712396461457</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="collections list set">
+      <option name="closed" value="true" />
+      <created>1713434792980</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713434792980</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,7 +204,8 @@
     <MESSAGE value="Small changes" />
     <MESSAGE value="Small changes2" />
     <MESSAGE value="Small changes3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Small changes3" />
+    <MESSAGE value="collections list set" />
+    <option name="LAST_COMMIT_MESSAGE" value="collections list set" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -239,6 +214,15 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/equalshashcode/EqualsHashCodeDemoTest.java</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/streamdemo/TicketTest.java</url>
+          <line>8</line>
+          <properties class="org.example.streamdemo.TicketTest" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -46,8 +46,8 @@ public class CollectionDemoTest {
           //  System.out.println("Iterator Restaurent Name "+restaurant.restaurantName);
             System.out.println(restaurant.restaurantName);
         }
-      //  list.forEach(restaurant -> System.out.println("Consumer "+restaurant.restaurantName)
-       // );
+        list.forEach(restaurant -> System.out.println("Consumer "+restaurant.restaurantName)
+        );
 
 
     }
