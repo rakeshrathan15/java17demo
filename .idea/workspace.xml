@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d360183-bafd-46dc-b803-a1caa031d219" name="Changes" comment="Predicate">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamdemo/PredicateAsParameter.java" afterDir="false" />
+    <list default="true" id="4d360183-bafd-46dc-b803-a1caa031d219" name="Changes" comment="Predicate as a parameter">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/votingsystem/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/votingsystem/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/votingsystem/Vote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/votingsystem/VoteDemoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/streamdemo/PredicateAsParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/streamdemo/PredicateAsParameter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +51,9 @@
     "Application.ShopDemoTest.executor": "Run",
     "Application.SwiggyTest.executor": "Run",
     "Application.Test.executor": "Run",
-    "Application.Test2.executor": "Run",
+    "Application.Test2.executor": "Debug",
     "Application.TicketTest.executor": "Run",
+    "Application.VoteDemoTest.executor": "Run",
     "Application.org.example.cardemo.Test.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -61,33 +66,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PredicateAsParameter">
-    <configuration name="CollectionDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.collectionsDemo.CollectionDemoTest" />
-      <module name="java17demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.collectionsDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.collectionsDemo.Demo1" />
-      <module name="java17demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.collectionsDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.VoteDemoTest">
     <configuration name="PredicateAsParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.streamdemo.PredicateAsParameter" />
       <module name="java17demo" />
@@ -101,12 +80,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateStatusDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.collectionsDemo.PredicateStatusDemoTest" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.votingsystem.Test" />
       <module name="java17demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.collectionsDemo.*" />
+          <option name="PATTERN" value="org.example.votingsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.votingsystem.Test2" />
+      <module name="java17demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.votingsystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,13 +119,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VoteDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.votingsystem.VoteDemoTest" />
+      <module name="java17demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.votingsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VoteDemoTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.PredicateAsParameter" />
         <item itemvalue="Application.TicketTest" />
-        <item itemvalue="Application.CollectionDemoTest" />
-        <item itemvalue="Application.PredicateStatusDemoTest" />
-        <item itemvalue="Application.Demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713500237752</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Predicate as a parameter">
+      <option name="closed" value="true" />
+      <created>1713503470993</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713503470993</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -211,7 +224,8 @@
     <MESSAGE value="Small changes3" />
     <MESSAGE value="collections list set" />
     <MESSAGE value="Predicate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Predicate" />
+    <MESSAGE value="Predicate as a parameter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Predicate as a parameter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -221,6 +235,16 @@
           <line>4</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/votingsystem/Test.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/votingsystem/VoteDemoTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/streamdemo/TicketTest.java</url>
           <line>8</line>
@@ -229,6 +253,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/votingsystem/VoteDemoTest.java</url>
+          <line>32</line>
+          <properties class="org.example.votingsystem.VoteDemoTest" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -15,7 +15,6 @@ public class PredicateAsParameter {
                System.out.println("Ticket status "+ticket.status);
            }
 
-
         }
     }
 
