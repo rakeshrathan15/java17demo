@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d360183-bafd-46dc-b803-a1caa031d219" name="Changes" comment="Predicate as a parameter">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/votingsystem/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/votingsystem/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/votingsystem/Vote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/votingsystem/VoteDemoTest.java" afterDir="false" />
+    <list default="true" id="4d360183-bafd-46dc-b803-a1caa031d219" name="Changes" comment="Voting system">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/flightTicket/TicketDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/flightTicket/Tickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamsdemomap/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamsdemomap/AccountDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamsdemomap/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamsdemomap/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamsdemomap/StreamDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamsdemomap/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/streamdemo/PredicateAsParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/streamdemo/PredicateAsParameter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +52,11 @@
     "Application.PredicateStatusDemoTest.executor": "Run",
     "Application.SetDemoTest.executor": "Run",
     "Application.ShopDemoTest.executor": "Run",
+    "Application.StreamDemoTest.executor": "Run",
     "Application.SwiggyTest.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.Test2.executor": "Debug",
+    "Application.TicketDemoTest.executor": "Run",
     "Application.TicketTest.executor": "Run",
     "Application.VoteDemoTest.executor": "Run",
     "Application.org.example.cardemo.Test.executor": "Run",
@@ -66,13 +71,13 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VoteDemoTest">
-    <configuration name="PredicateAsParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.streamdemo.PredicateAsParameter" />
+  <component name="RunManager" selected="Application.StreamDemoTest">
+    <configuration name="StreamDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.streamsdemomap.StreamDemoTest" />
       <module name="java17demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.streamdemo.*" />
+          <option name="PATTERN" value="org.example.streamsdemomap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicketTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.streamdemo.TicketTest" />
+    <configuration name="TicketDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.flightTicket.TicketDemoTest" />
       <module name="java17demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.streamdemo.*" />
+          <option name="PATTERN" value="org.example.flightTicket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamDemoTest" />
+        <item itemvalue="Application.TicketDemoTest" />
         <item itemvalue="Application.VoteDemoTest" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.PredicateAsParameter" />
-        <item itemvalue="Application.TicketTest" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713503470993</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Voting system">
+      <option name="closed" value="true" />
+      <created>1713602164659</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713602164659</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -225,7 +238,8 @@
     <MESSAGE value="collections list set" />
     <MESSAGE value="Predicate" />
     <MESSAGE value="Predicate as a parameter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Predicate as a parameter" />
+    <MESSAGE value="Voting system" />
+    <option name="LAST_COMMIT_MESSAGE" value="Voting system" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
