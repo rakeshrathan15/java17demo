@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d360183-bafd-46dc-b803-a1caa031d219" name="Changes" comment="Voting system">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/flightTicket/TicketDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/flightTicket/Tickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamsdemomap/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamsdemomap/AccountDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamsdemomap/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamsdemomap/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamsdemomap/StreamDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/streamsdemomap/User.java" afterDir="false" />
+    <list default="true" id="4d360183-bafd-46dc-b803-a1caa031d219" name="Changes" comment="Maps will take less time to execute  and List will take long time to execute">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/functionDemoTest/BiSupplierDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/functionDemoTest/FunctionDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/functionDemoTest/Restaurent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,10 +38,12 @@
   "keyToString": {
     "Application.AccountCreationTest.executor": "Run",
     "Application.App.executor": "Run",
+    "Application.BiSupplierDemoTest.executor": "Run",
     "Application.CardTest.executor": "Run",
     "Application.CollectionDemoTest.executor": "Run",
     "Application.Demo1.executor": "Run",
     "Application.EqualsHashCodeDemoTest.executor": "Run",
+    "Application.FunctionDemoTest.executor": "Run",
     "Application.PaginationTest.executor": "Run",
     "Application.PredicateAsParameter.executor": "Run",
     "Application.PredicateStatusDemoTest.executor": "Run",
@@ -71,39 +68,39 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StreamDemoTest">
+  <component name="RunManager" selected="Application.BiSupplierDemoTest">
+    <configuration name="BiSupplierDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.functionDemoTest.BiSupplierDemoTest" />
+      <module name="java17demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.functionDemoTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.functionDemoTest.FunctionDemoTest" />
+      <module name="java17demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.functionDemoTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StreamDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.streamsdemomap.StreamDemoTest" />
       <module name="java17demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.streamsdemomap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.votingsystem.Test" />
-      <module name="java17demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.votingsystem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.votingsystem.Test2" />
-      <module name="java17demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.votingsystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BiSupplierDemoTest" />
+        <item itemvalue="Application.FunctionDemoTest" />
         <item itemvalue="Application.StreamDemoTest" />
         <item itemvalue="Application.TicketDemoTest" />
         <item itemvalue="Application.VoteDemoTest" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713602164659</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Maps will take less time to execute  and List will take long time to execute">
+      <option name="closed" value="true" />
+      <created>1713940888455</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713940888455</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -239,7 +244,8 @@
     <MESSAGE value="Predicate" />
     <MESSAGE value="Predicate as a parameter" />
     <MESSAGE value="Voting system" />
-    <option name="LAST_COMMIT_MESSAGE" value="Voting system" />
+    <MESSAGE value="Maps will take less time to execute  and List will take long time to execute" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maps will take less time to execute  and List will take long time to execute" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
