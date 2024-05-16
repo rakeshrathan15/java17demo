@@ -50,9 +50,13 @@ public class Test {
         voterList.add(vote2);
         voterList.add(vote2);
 
+
         Test test=new Test();
         test.vote(voterList,votePredicate);
         test.vote(voterList,alreadyVotedPredicate);
+
+        Vote vote3= new Vote();
+
     }
     }
 
